@@ -15,6 +15,10 @@ Android/data/com.henil.paymentapp/files/LastPayment.txt
 - **Save payment data to a text file**
 - **Read saved data from the text file if available**
 
+## Tech Stack
+- **Java, XML, Dagger hilt, MVVM architecture**
+
+
 ## Demo of LastPatment.txt
 
 ```json
@@ -43,3 +47,4 @@ Android/data/com.henil.paymentapp/files/LastPayment.txt
 ## Screen Recording link 
 
 [Video](https://drive.google.com/file/d/1Tg4Lreygspp88ZgcQ2Glc_KIXdMb-QaN/view)
+
